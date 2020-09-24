@@ -32,3 +32,4 @@ files:
     placeholder_text: = TODO()
 - name: test/Tests.kt
   visible: false
+solution_hidden: true
