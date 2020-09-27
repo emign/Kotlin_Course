@@ -3,4 +3,5 @@ language: English
 summary: "Informatik 10. Klasse \nEmig ASG"
 programming_language: Kotlin
 content:
-- lesson1
+- Datentypen
+- Funktionen
